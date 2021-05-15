@@ -1,4 +1,5 @@
-//This is a Game where the Computer shall choose a number between 1 to 100 and we must guess the Number
+//This is a Game where the Computer shall choose a number between 1 to 100 and we must guess the Number.The Computer will Tell Whether the Guessed Number is Greater tor lesser than
+//choosen Number
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
